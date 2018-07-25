@@ -1,4 +1,4 @@
-***Barcode***
+###Barcode PHP###
 
 Little web app to generate barcodes with PHP.
 
